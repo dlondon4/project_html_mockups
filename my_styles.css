@@ -16,3 +16,12 @@ body {
 thead {
   vertical-align: middle;
 }
+
+/*Trying to get the header fixed*/
+/*thead.fixedHeader tr {
+  position: relative
+}
+
+html>body thead.fixedHeader tr {
+  display: block
+}*/
